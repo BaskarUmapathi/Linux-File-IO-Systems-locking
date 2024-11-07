@@ -1,8 +1,8 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 
-### NAME : BASKAR U
-### REG NO : 212223220013
+NAME : BASKAR U
+REG NO : 212223220013
 
 # AIM:
 To Write a C program that illustrates files copying and locking
